@@ -97,7 +97,7 @@ DOMAIN,openapi.aliyundrive.com
 DOMAIN,auth.aliyundrive.com
 DOMAIN,api.aliyundrive.com
 #豆瓣封面
-DOMAIN-suffix,doubanio.com
+DOMAIN-SUFFIX,doubanio.com
 #同步数据
 DOMAIN,gateway.icloud.com
 #杂七杂八的播放
